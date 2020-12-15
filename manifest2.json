@@ -4,17 +4,17 @@
     "name": "Aaron T. Grogg's website",
     "icons": [
         {
-            "src": "http://www.datanetbilisim.com/img/apple-touch-icon-114x114-precomposed.png",
+            "src": "https://iconifier.net/images/ghosted/apple-touch-icon-180x180.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "http://www.terminalpourcel.com/wp-content/uploads/2016/10/apple-touch-icon-144x144-300x300.png",
+            "src": "https://iconifier.net/images/ghosted/apple-touch-icon-180x180.png",
             "sizes": "300x300",
             "type": "image/png"
         }
     ],
-    "start_url": "/",
+    "start_url": "https://m3u8-simple-player.blogspot.com/",
     "display": "browser",
     "background_color": "#ffffff",
     "theme_color": "#ffffff"
